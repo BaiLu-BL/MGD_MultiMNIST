@@ -1,6 +1,6 @@
 # Multi-Task Gradient Descent for Multi-Task Learnin
 Code for Memetic Computing paper Multi-Task Gradient Descent for Multi-Task Learning, and
-technology deployment demo Relational Gradient Descent for Multi-Task Image Learning.
+technology disclosure demo Relational Gradient Descent for Multi-Task Image Learning.
 
 We adapt and use some code snippets from:
 
